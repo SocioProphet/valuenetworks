@@ -1,6 +1,8 @@
 valuenetwork
 =====================
 
+**Note: this version of this repo is no longer being maintained. Several forks have active users and maintainers. Some of them have additional features. I'll add some notes about versions in current use after I do some research.**
+
 A prototype of Value Network Accounting, being developed in collaboration with http://www.sensorica.co/ , a pioneering value network.
 
 We mean Accounting in a large sense.  We are developing something analogous to an ERP system for value networks.  Might call it NRP for Network Resource Planning.
