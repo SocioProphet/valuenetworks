@@ -1,7 +1,18 @@
 valuenetwork
 =====================
 
-**Note: this version of this repo is no longer being maintained. Several forks have active users and maintainers. Some of them have additional features. I'll add some notes about versions in current use after I do some research.**
+**Note: this version of this repo is no longer being maintained.** 
+
+Several forks have active users and maintainers. Some of them have additional features. Here are some notable versions that are still in use and being maintained.
+
+* Sensorica is using https://github.com/Sensorica/VerdunNRP which is a lot like the original version with a lot of bugs fixed.
+* Freedom Coop's fork https://github.com/FreedomCoop/valuenetwork upgraded the code to Django 1.11, and added the FairCoin crypto currency, membership application forms and fees, and a Work app with access permissions by project membership.
+* The [Open Cooperative Ecosystem project](https://docs.opencoopecosystem.net/) added a new UI https://github.com/opencooperativeecosystem/agent which is still in progress.
+* LearnDeep forked the Freedom Coop fork as well as the OCE new UI: https://github.com/LearnDeepMilwaukee
+
+
+**Original readme:**
+
 
 A prototype of Value Network Accounting, being developed in collaboration with http://www.sensorica.co/ , a pioneering value network.
 
